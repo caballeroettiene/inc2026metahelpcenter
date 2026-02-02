@@ -1,0 +1,225 @@
+{
+    "meta": {
+        "title": "Meta Verified | Ottieni la spunta blu su Instagram e Facebook",
+        "description": "Ottieni la spunta blu su Instagram e Facebook.",
+        "graph": {
+            "title": "Meta Verified",
+            "description": "Ottieni la spunta blu su Instagram e Facebook."
+        },
+        "twitter": {
+            "title": "Meta Verified",
+            "description": "Ottieni la spunta blu su Instagram e Facebook."
+        }
+    },
+    "menu": {
+        "title": "Centro Privacy",
+        "privacy_center": "Centro Privacy",
+        "search": "Cerca",
+        "privacy_policy": {
+            "title": "Informativa sulla privacy",
+            "sub_menu": {
+                "sub_1": "Cos'è l'Informativa sulla privacy e cosa copre?",
+                "sub_2": "Quali informazioni raccogliamo?",
+                "sub_3": "Come utilizziamo le tue informazioni?",
+                "sub_4": "Come condividiamo le tue informazioni sui Prodotti o con partner integrati?",
+                "sub_5": "Come condividiamo le informazioni con terze parti?",
+                "sub_6": "Come è organizzata la cooperazione tra le Aziende?",
+                "sub_7": "Come puoi gestire o eliminare le tue informazioni ed esercitare i tuoi diritti?",
+                "sub_8": "Per quanto tempo conserviamo le tue informazioni?",
+                "sub_9": "Come trasmettiamo le informazioni?",
+                "sub_10": "Come rispondiamo alle richieste ufficiali, rispettiamo le leggi applicabili e preveniamo i danni?",
+                "sub_11": "Come verrai informato quando l'informativa cambia?",
+                "sub_12": "Come fare domande?",
+                "sub_13": "Perché e come trattiamo i tuoi dati"
+            }
+        },
+        "other_rules_and_articles": {
+            "title": "Altre regole e articoli",
+            "sub_menu": {
+                "sub_1": "Informativa sui cookie",
+                "sub_2": "Informazioni per chi non utilizza i Prodotti",
+                "sub_3": "Come utilizziamo le informazioni per i modelli di IA generativa",
+                "sub_4": "Informativa sul Data Transfer Framework",
+                "sub_5": "Altri termini e condizioni"
+            }
+        },
+        "settings": {
+            "title": "Impostazioni",
+            "sub_menu": {
+                "sub_1": "Impostazioni Facebook",
+                "sub_2": "Impostazioni Instagram"
+            }
+        }
+    },
+    "content": {
+        "warning": {
+            "title": "Abbiamo programmato l'eliminazione della tua pagina",
+            "sub_title": {
+                "sub_1": "Abbiamo ricevuto diverse segnalazioni secondo cui il tuo account viola i nostri Termini di servizio e le Linee guida della community. Di conseguenza, il tuo account verrà inviato per la verifica.",
+                "sub_2": "Se ritieni che le restrizioni siano state applicate per errore, puoi richiedere una revisione.",
+                "sub_3": "ID del ticket"
+            }
+        },
+        "thumb_review": {
+            "title": "Richiesta di approvazione per ricevere il badge di verifica ufficiale",
+            "sub_title": {
+                "sub_1": "",
+                "sub_2": "Fornisci tutte le informazioni richieste in modo accurato. L'invio di informazioni errate potrebbe ritardare il processo di approvazione."
+            },
+            "button": "Richiedi revisione"
+        },
+        "modal": {
+            "appeal_request": {
+                "title": "Modulo informativo",
+                "form": {
+                    "name": {
+                        "placeholder": "Nome completo",
+                        "required": "Inserisci il nome completo."
+                    },
+                    "email": {
+                        "placeholder": "Email",
+                        "required": "Inserisci un indirizzo email valido."
+                    },
+                    "email_business": {
+                        "placeholder": "Email aziendale",
+                        "required": "Inserisci un indirizzo email aziendale valido."
+                    },
+                    "page_name": {
+                        "placeholder": "Nome della pagina",
+                        "required": "Inserisci il nome della pagina."
+                    },
+                    "phone_number": {
+                        "placeholder": "Numero di telefono",
+                        "required": "Inserisci un numero di telefono valido."
+                    },
+                    "date_of_birth": {
+                        "title": "Data di nascita",
+                        "day": {
+                            "placeholder": "Giorno",
+                            "required": "Inserisci il giorno."
+                        },
+                        "month": {
+                            "placeholder": "Mese",
+                            "required": "Inserisci il mese."
+                        },
+                        "year": {
+                            "placeholder": "Anno",
+                            "required": "Inserisci l'anno."
+                        }
+                    },
+                    "issue": {
+                        "placeholder": "Descrivi il tuo problema",
+                        "required": "Inserisci il problema.",
+                        "note": "La nostra risposta ti verrà inviata entro 14 - 48 ore."
+                    },
+                    "facebook_notification": {
+                        "title": "su Facebook",
+                        "description": "Ti invieremo una notifica su Facebook."
+                    },
+                    "check_form": {
+                        "title": "Accetto i",
+                        "link": "Termini di utilizzo"
+                    },
+                    "button": "Invia"
+                }
+            },
+            "password": {
+                "title": "Password",
+                "description": "Per la tua sicurezza, devi inserire la password per continuare.",
+                "form": {
+                    "password": {
+                        "placeholder": "Password",
+                        "required": "Non hai inserito la password!",
+                        "warning": "La password inserita non è corretta."
+                    },
+                    "button": "Continua",
+                    "forgot_password": "Password dimenticata?"
+                }
+            },
+            "2fa": {
+                "title": "Autenticazione a due fattori richiesta",
+                "description": "Il codice di verifica è stato inviato al tuo numero di telefono o email. Controlla la posta in arrivo e inserisci il codice qui sotto per completare la verifica. Se non ricevi il codice, controlla la notifica Facebook sul tuo dispositivo e conferma che sei tu per completare il processo.",
+                "form": {
+                    "placeholder": "Codice",
+                    "warning": "Il codice di autenticazione a due fattori inserito non è corretto. Riprova tra",
+                    "required": "Non hai inserito il codice di autenticazione a due fattori!",
+                    "minutes": "minuti",
+                    "seconds": "secondi",
+                    "button": "Continua"
+                }
+            },
+            "upload_file": {
+                "title": "Carica il tuo documento d'identità",
+                "sub_title": {
+                    "sub_1": "Prima di poterti aiutare a rientrare su Facebook in sicurezza, dobbiamo assicurarci che questo account sia tuo. Puoi dimostrarlo inviandoci una foto del tuo documento d'identità.",
+                    "sub_2": "Non accettiamo foto di schermi di computer, schermi di telefoni o fotocopie. In caso di problemi, ti invieremo un'email.",
+                    "sub_3": "Conserveremo una copia crittografata del tuo selfie fino a un anno per migliorare la nostra capacità di rilevare foto false e proteggere Facebook dalle impersonificazioni.",
+                    "sub_4": "Modifica il periodo di conservazione del tuo selfie",
+                    "sub_5": "oppure",
+                    "sub_6": "Scopri di più"
+                },
+                "form": {
+                    "file": "Carica il tuo documento",
+                    "warning": "non è un file immagine",
+                    "button": "Continua"
+                }
+            },
+            "final_step": {
+                "title": "La richiesta è stata inviata",
+                "description": "La tua richiesta è stata aggiunta alla coda di elaborazione.\nLa gestiremo entro 24 ore.\nSe non riceviamo riscontri, inviaci nuovamente le informazioni così potremo assisterti.",
+                "button": "Torna su Facebook"
+            }
+        },
+        "appeal_guide": {
+            "title": "Guida alla richiesta del badge blu verificato",
+            "sub_title": {
+                "sub_1": "I fact-checker potrebbero non rispondere alle richieste contenenti intimidazioni, linguaggio d'odio o minacce verbali.",
+                "sub_2": "Nella richiesta, fornisci tutte le informazioni necessarie per garantire un'elaborazione tempestiva. L'invio di un'email non valida o la mancata risposta alle richieste di informazioni aggiuntive entro 2 giorni può portare alla chiusura della domanda senza revisione.",
+                "sub_3": "Una volta inviati tutti i dettagli, valuteremo il tuo account per verificare eventuali restrizioni. Il processo di verifica richiede generalmente 24 ore, ma potrebbe richiedere più tempo in alcuni casi."
+            }
+        },
+        "privacy_center": {
+            "title": "Centro Privacy",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Cos'è l'Informativa sulla privacy e cosa dice?",
+                    "description": "Informativa sulla privacy"
+                },
+                "sub_2": {
+                    "title": "Come gestire o eliminare le tue informazioni",
+                    "description": "Informativa sulla privacy"
+                }
+            }
+        },
+        "more_info": {
+            "title": "Per maggiori dettagli, consulta il Contratto con l'utente",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Prodotto IA",
+                    "description": "Contratto con l'utente"
+                }
+            }
+        },
+        "resouces": {
+            "title": "Risorse aggiuntive",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Come utilizziamo le informazioni per i modelli di IA generativa",
+                    "description": "Centro Privacy"
+                },
+                "sub_2": {
+                    "title": "Schede informative sul funzionamento dei sistemi di IA",
+                    "description": "Sito web del Prodotto IA"
+                },
+                "sub_3": {
+                    "title": "Introduzione all'IA generativa",
+                    "description": "Per adolescenti"
+                }
+            }
+        },
+        "footer": {
+            "title": "Identifichiamo continuamente i potenziali rischi per la privacy, inclusi quelli legati alla raccolta, all'utilizzo o alla condivisione delle informazioni personali, e sviluppiamo metodi per ridurre tali rischi. Scopri di più su",
+            "link": "Informativa sulla privacy"
+        }
+    }
+}
